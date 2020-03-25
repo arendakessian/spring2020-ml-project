@@ -2,7 +2,7 @@
 fake review detection system for DS-GA 1003 Final Project
 
 
-Collaborators:
-Kelsey Markey \n
-Aren Dakessian \n
+<b>Collaborators:</b> <br/>
+Kelsey Markey <br/>
+Aren Dakessian <br/>
 Guido Petri
