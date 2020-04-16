@@ -14,8 +14,8 @@ run the following Jupyter notebooks, in order:
 1. `Kelsey/Pre_vectorization_feature_engineering.ipynb`
 2. `Aren/FeatureTransformation.ipynb`
 3. `Sid/ratings.ipynb`
-4. `Sid/vectorize-count.ipynb`
-5. `Kelsey/downsample.ipynb`
+4. `Kelsey/downsample.ipynb`
+5. `Sid/vectorize-count.ipynb`
 6. `Sid/concat-features.ipynb`
 
 Once the features have been concatenated, the data will be in the `data/` folder.
